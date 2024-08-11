@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @UniqueBastola120
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...Koi
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  at KOI
+- 💞️ I’m looking to collaborate on virtual coins with big platforms
+- 📫 How to reach me ... ##
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... work everyday! even just once#
 
 <!---
 UniqueBastola120/UniqueBastola120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
