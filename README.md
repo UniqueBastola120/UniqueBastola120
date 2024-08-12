@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UniqueBastola120
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m @UniqueBastola
+- 👀 I’m interested in Learning New Tech.
 - 🌱 I’m currently learning  at KOI
 - 💞️ I’m looking to collaborate on virtual coins with big platforms
 - 📫 How to reach me ... ##
